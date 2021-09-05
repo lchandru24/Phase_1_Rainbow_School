@@ -36,7 +36,7 @@ namespace Rainbow_School
             {
                 sw.WriteLine(con_cat);
             }
-
+            Console.WriteLine("Teacher Added Successfully!");
             Console.ForegroundColor = ConsoleColor.White;
         }
 
